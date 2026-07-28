@@ -24,7 +24,7 @@ Open-Source & Usage
 
 🔗 PCB Repository: 
 
-HEX file: This is an effect file for the re-effect pedal, provided in hex format and ready to be flashed directly. It’s compatible with any effect processor based on the Spin FV-1 DSP chip. The file includes 5 reverb effects and 3 delay effects, and was entirely written using Ear Modular.
+HEX file: This is an effect file for the re-effect pedal, provided in hex format and ready to be flashed directly. It’s compatible with any effect processor based on the Spin FV-1 DSP chip. The file includes 5 reverb effects and 3 delay effects, and the code was entirely written by Ear Modular.
 
 
 项目概述
