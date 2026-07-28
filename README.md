@@ -1,31 +1,3 @@
-项目概述
-
-本模块基于 SPIN FV1 DSP 音频处理器构建，专为音频效果处理场景设计，可灵活应用于吉他效果器、Eurorack 模块化系统及各类合成器项目。
-
-硬件特性
-
-· 板载 24LC32 EEPROM，最多支持 8 组效果代码存储，建议搭配芯片座使用，方便后续更换或升级 EEPROM
-· 集成电源转换电路，支持 +5V 至 +12V 宽电压输入，提供稳定的 3.3V 输出
-· L/R 双声道输入与输出（立体声）
-· P0、P1、P2：三组参数控制输入（模拟/电位器）
-· S0、S1、S2：寻址输入，用于切换 EEPROM 中的效果预设
-· S3：预留引脚，建议悬空
-
-EEPROM 烧录说明
-
-· 推荐使用 CH341 编程器 配合相应软件对 24LC32 进行代码烧录
-· 板上预留了芯片座位置，建议直接焊接芯片座而非 EEPROM 本体，便于后续拔插更换
-
-开源与使用说明
-
-· 硬件：采用 CERN-OHL-P-2.0 协议开源，允许修改与商业使用，二创时请注明“Based on EAR Modular”
-· 固件：完全自主开发，于 GitHub 独立发布，采用 MIT 协议，用户可自行烧录自定义效果
-· PCB：提供三种背板图案供选择，已标注客编（Customer Code）添加位置，使用嘉立创（JLC）制板时可按标注指定位置添加
-
-🔗 PCB地址：
-
-English：
-
 Project Overview
 
 This module is built around the SPIN FV1 DSP audio processor, tailored for audio effect processing across guitar pedals, Eurorack modular systems, and synthesizer projects.
@@ -52,3 +24,30 @@ Open-Source & Usage
 
 🔗 PCB Repository: 
 
+
+
+项目概述
+
+本模块基于 SPIN FV1 DSP 音频处理器构建，专为音频效果处理场景设计，可灵活应用于吉他效果器、Eurorack 模块化系统及各类合成器项目。
+
+硬件特性
+
+· 板载 24LC32 EEPROM，最多支持 8 组效果代码存储，建议搭配芯片座使用，方便后续更换或升级 EEPROM
+· 集成电源转换电路，支持 +5V 至 +12V 宽电压输入，提供稳定的 3.3V 输出
+· L/R 双声道输入与输出（立体声）
+· P0、P1、P2：三组参数控制输入（模拟/电位器）
+· S0、S1、S2：寻址输入，用于切换 EEPROM 中的效果预设
+· S3：预留引脚，建议悬空
+
+EEPROM 烧录说明
+
+· 推荐使用 CH341 编程器 配合相应软件对 24LC32 进行代码烧录
+· 板上预留了芯片座位置，建议直接焊接芯片座而非 EEPROM 本体，便于后续拔插更换
+
+开源与使用说明
+
+· 硬件：采用 CERN-OHL-P-2.0 协议开源，允许修改与商业使用，二创时请注明“Based on EAR Modular”
+· 固件：完全自主开发，于 GitHub 独立发布，采用 MIT 协议，用户可自行烧录自定义效果
+· PCB：提供三种背板图案供选择，已标注客编（Customer Code）添加位置，使用嘉立创（JLC）制板时可按标注指定位置添加
+
+🔗 PCB地址：
