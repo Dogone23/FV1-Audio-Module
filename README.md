@@ -24,6 +24,7 @@ Open-Source & Usage
 
 🔗 PCB Repository: 
 
+HEX file: This is an effect file for the re-effect pedal, provided in hex format and ready to be flashed directly. It’s compatible with any effect processor based on the Spin FV-1 DSP chip. The file includes 5 reverb effects and 3 delay effects, and was entirely written using Ear Modular.
 
 
 项目概述
@@ -51,3 +52,5 @@ EEPROM 烧录说明
 · PCB：提供三种背板图案供选择，已标注客编（Customer Code）添加位置，使用嘉立创（JLC）制板时可按标注指定位置添加
 
 🔗 PCB地址：
+
+HEX文件：这是用于re-effect效果器的效果文件，hex格式可以直接烧录。该文件可用于任何spin-fv1 DSP芯片为基础的效果器。包含5个reverb效果和3个delay效果。完全由ear modular编写。
