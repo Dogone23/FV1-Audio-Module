@@ -1,3 +1,4 @@
+![spin-fv1 board](https://github.com/Dogone23/FV1-Audio-Module/blob/main/ce36a38aaf9164cef12321d8ae8ca55b.jpg?raw=true)
 Project Overview
 
 This module is built around the SPIN FV1 DSP audio processor, tailored for audio effect processing across guitar pedals, Eurorack modular systems, and synthesizer projects.
