@@ -20,7 +20,7 @@ Open-Source & Usage
 
 · Hardware: Open-sourced under CERN-OHL-P-2.0, allowing modification and commercial use. Derivatives must credit "Based on EAR Modular."
 · Firmware: Fully custom-developed, hosted separately on GitHub under MIT license. Users can burn their own effect programs.
-· PCB: Three backplate pattern options available. Customer code position is pre-marked on the PCB for JLC fabrication.
+· PCB: hosted separately on easyCAD, Three backplate pattern options available. Customer code position is pre-marked on the PCB for JLC fabrication.
 
 🔗 PCB Repository: https://oshwhub.com/dogone23/project_mzoezdow
 
@@ -49,7 +49,7 @@ EEPROM 烧录说明
 
 · 硬件：采用 CERN-OHL-P-2.0 协议开源，允许修改与商业使用，二创时请注明“Based on EAR Modular”
 · 固件：完全自主开发，于 GitHub 独立发布，采用 MIT 协议，用户可自行烧录自定义效果
-· PCB：提供三种背板图案供选择，已标注客编（Customer Code）添加位置，使用嘉立创（JLC）制板时可按标注指定位置添加
+· PCB：于 easyCAD 独立发布，提供三种背板图案供选择，已标注客编（Customer Code）添加位置，使用嘉立创（JLC）制板时可按标注指定位置添加
 
 🔗 PCB地址：https://oshwhub.com/dogone23/project_mzoezdow
 
