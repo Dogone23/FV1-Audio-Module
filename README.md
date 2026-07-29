@@ -28,7 +28,7 @@ Open-Source & Usage
 
 HEX file: This is an effect file for the re-effect pedal, provided in hex format and ready to be flashed directly. It’s compatible with any effect processor based on the Spin FV-1 DSP chip. The file includes 5 reverb effects and 3 delay effects, and the code was entirely written by Ear Modular.
 
-.epro2 is the PCB file for easyCAD.
+ProPrj_spin fv1 board for easyCAD.epro2   is the PCB file for easyCAD.
 
 项目概述
 
