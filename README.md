@@ -1,4 +1,5 @@
-![spin-fv1 board](https://github.com/Dogone23/FV1-Audio-Module/blob/main/ce36a38aaf9164cef12321d8ae8ca55b.jpg?raw=true)
+![spin-fv1 board](https://github.com/Dogone23/FV1-Audio-Module/blob/main/5ae41060f4dcb9f61dca5146505d350b.jpg?raw=true)
+
 Project Overview
 
 This module is built around the SPIN FV1 DSP audio processor, tailored for audio effect processing across guitar pedals, Eurorack modular systems, and synthesizer projects.
@@ -56,4 +57,5 @@ EEPROM 烧录说明
 🔗 PCB地址：https://oshwhub.com/dogone23/project_mzoezdow
 
 HEX文件：这是用于re-effect效果器的效果文件，hex格式可以直接烧录。该文件可用于任何spin-fv1 DSP芯片为基础的效果器。包含5个reverb效果和3个delay效果。完全由ear modular编写。
-![spin-fv1 board](https://github.com/Dogone23/FV1-Audio-Module/blob/main/5ae41060f4dcb9f61dca5146505d350b.jpg?raw=true)
+
+![spin-fv1 board](https://github.com/Dogone23/FV1-Audio-Module/blob/main/ce36a38aaf9164cef12321d8ae8ca55b.jpg?raw=true)
