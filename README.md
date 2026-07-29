@@ -22,7 +22,7 @@ Open-Source & Usage
 · Firmware: Fully custom-developed, hosted separately on GitHub under MIT license. Users can burn their own effect programs.
 · PCB: Three backplate pattern options available. Customer code position is pre-marked on the PCB for JLC fabrication.
 
-🔗 PCB Repository: 
+🔗 PCB Repository: https://oshwhub.com/dogone23/project_mzoezdow
 
 HEX file: This is an effect file for the re-effect pedal, provided in hex format and ready to be flashed directly. It’s compatible with any effect processor based on the Spin FV-1 DSP chip. The file includes 5 reverb effects and 3 delay effects, and the code was entirely written by Ear Modular.
 
@@ -51,6 +51,6 @@ EEPROM 烧录说明
 · 固件：完全自主开发，于 GitHub 独立发布，采用 MIT 协议，用户可自行烧录自定义效果
 · PCB：提供三种背板图案供选择，已标注客编（Customer Code）添加位置，使用嘉立创（JLC）制板时可按标注指定位置添加
 
-🔗 PCB地址：
+🔗 PCB地址：https://oshwhub.com/dogone23/project_mzoezdow
 
 HEX文件：这是用于re-effect效果器的效果文件，hex格式可以直接烧录。该文件可用于任何spin-fv1 DSP芯片为基础的效果器。包含5个reverb效果和3个delay效果。完全由ear modular编写。
