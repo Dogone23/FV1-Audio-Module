@@ -58,4 +58,6 @@ EEPROM 烧录说明
 
 HEX文件：这是用于re-effect效果器的效果文件，hex格式可以直接烧录。该文件可用于任何spin-fv1 DSP芯片为基础的效果器。包含5个reverb效果和3个delay效果。完全由ear modular编写。
 
+ProPrj_spin fv1 board for easyCAD.epro2 是立创EDA的文件
+
 ![spin-fv1 board](https://github.com/Dogone23/FV1-Audio-Module/blob/main/front.jpg?raw=true)
